@@ -1,4 +1,4 @@
-# 🌊 Counter Website with WebGL Background
+# 🌊 A Simple Counter Website with WebGL Background
 
 This is a sleek and minimal counter website built with **HTML, CSS, JavaScript**, and **Three.js (WebGL)**. The background features a smooth animated shader with a wavy, colorful effect that responds to the counter's value.
 
